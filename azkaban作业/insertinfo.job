@@ -1,0 +1,3 @@
+type=command
+dependencies=insertclicks
+command=sh insertinfo.sh
